@@ -25,11 +25,18 @@ footer{
 	position:absolute;
 	width:250px;
 	height:250px;
-	margin-top:-20px;
+	margin-top:-170px;
 	margin-lef:auto;
 	margin-right:auto;
 }
 
 section {
+	position:relative;
+}
+
+#formulario{
+    background-repeat:no-repeat;
+	background-image: url('../img/grama.jpg');	
+	margin-left:300px;
 	position:relative;
 }
