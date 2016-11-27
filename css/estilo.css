@@ -1,0 +1,27 @@
+*{
+	margin:0px;
+	paddin:0px;
+}
+
+header{
+	width:100%;
+	height:200px;
+	background:red;
+}
+
+section{
+	widtht:100%;
+	height:200px;
+	bacground:#000;
+}
+
+footer{
+	width:100%;
+	height:200px;
+	background:black;
+}
+
+#vit{
+	width:250px;
+	height:250px;
+}
