@@ -40,3 +40,8 @@ section {
 	margin-left:300px;
 	position:relative;
 }
+
+section .teste{
+    max-width: 90%;
+    margin: 0 auto;    
+}
